@@ -1,0 +1,1 @@
+This project focuses on writing shell scripts and navigating the shell.
