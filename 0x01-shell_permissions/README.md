@@ -1,0 +1,1 @@
+This project is covering Linux file permissions and the commands used to modify them (chmod, sudo, su, chown, chgrp)
