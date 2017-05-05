@@ -1,0 +1,15 @@
+Shell, I/O Redirection
+-The commands head, tail, find, wc, sort, uniq, grep, tr
+-Redirect standard output to a file
+-Get standard input from a file instead of the keyboard
+-Send the output from one program to the input of another program
+-Combine commands and filters with redirections
+-Special Characters
+-White spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
+-Other man pages
+-Display a line of text
+-Concatenate files and print on the standard output
+-Reverse a string
+-Remove sections from each line of files
+- /etc/passwd file and what is its format
+- /etc/shadow file and what is its format
